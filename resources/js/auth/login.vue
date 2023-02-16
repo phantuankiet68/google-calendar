@@ -20,7 +20,6 @@
                     <div class="clear"></div>
                     <div class="submit_login">
                         <input type="submit" value="Đăng nhập">
-                        <input type="submit" value="Đăng Ký">
                     </div>
                 </form>
 

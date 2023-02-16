@@ -25,7 +25,7 @@
 			</div>
 		</div>
 		<div class="datehome">
-            <sidebar/>
+            <sidebar />
 		</div>
 		<ul class="side-menu top">
 			<li v-for="category in this.categories" :key="category.id">
